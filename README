@@ -37,7 +37,7 @@ Requirements
   These are required.
     GLib 2.0+
     CMake
-    LCM       (http://lcm.googlecode.com)
+    LCM       (http://lcm-proj.github.io/)
     Java      (Sun JDK or OpenJDK strongly preferred)
     Python
     GTK+ 2.0+ (required by bot2-vis)
@@ -61,7 +61,7 @@ Requirements
     freeglut3-dev
     libjpeg-dev
 
-    Additionally, you'll need to install LCM from http://lcm.googlecode.com
+    Additionally, you'll need to install LCM from http://lcm-proj.github.io/
 
   On OS X, the recommended procedure is to use MacPorts and install:
     cmake
@@ -75,7 +75,7 @@ Requirements
     pango
     mesa
 
-    Additionally, you'll need to install LCM from http://lcm.googlecode.com
+    Additionally, you'll need to install LCM from http://lcm-proj.github.io/
 
 (Local) Installation
 ====================
